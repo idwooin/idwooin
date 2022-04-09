@@ -14,8 +14,7 @@
 [![wooin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idwooin&show_icons=true&theme=tokyonight&hide_border=False)](https://github.com/anuraghazra/github-readme-stats)
 
 #### tier
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=idwooin)](https://solved.ac/idwooin)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=idwooin)](https://solved.ac/idwooin)
 <!--
 **idwooin/idwooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
