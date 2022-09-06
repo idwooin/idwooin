@@ -13,6 +13,9 @@
 #### stats
 [![wooin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idwooin&show_icons=true&theme=tokyonight&hide_border=False)](https://github.com/anuraghazra/github-readme-stats)
 
+#### langauges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idwooin)](https://github.com/anuraghazra/github-readme-stats)
+
 #### tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=idwooin)](https://solved.ac/idwooin)
 <!--
