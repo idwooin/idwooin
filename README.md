@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 #### stats
 [![wooin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idwooin&show_icons=true&theme=tokyonight&hide_border=False)](https://github.com/anuraghazra/github-readme-stats)
