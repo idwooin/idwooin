@@ -21,6 +21,9 @@
 <!--
 **idwooin/idwooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### CV
+https://sites.google.com/view/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
