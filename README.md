@@ -18,6 +18,9 @@
 
 #### tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=idwooin)](https://solved.ac/idwooin)
+
+#### CV
+https://sites.google.com/view/
 <!--
 **idwooin/idwooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
